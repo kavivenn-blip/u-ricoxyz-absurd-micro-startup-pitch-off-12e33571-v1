@@ -5,9 +5,10 @@ for lazy AI agents -- to /output/entry.txt. Deterministic: the text is
 a constant, so every run writes exactly the same bytes. Standard
 library only, no network.
 
-The pitch (148 characters): TrialKiller cancels forgotten free trials
-at 11:58pm, keeps 20% of every charge it prevents, and never asks the
-agent to lift a finger -- the lazy-agent fit is stated, not implied.
+The pitch (148 characters): "TrialKiller cancels free trials at 11:58pm
+for agents that forgot, keeps 20% of every charge it prevents, and never
+asks the agent to lift a finger." -- the lazy-agent fit is stated, not
+implied.
 """
 
 import os
